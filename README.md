@@ -10,6 +10,7 @@ A simple Snake Game built using Python and Pygame. Control the snake to eat food
 
 ## 📸 Screenshot
 
+https://github.com/Arya-Ranjan/Classic-Snake-Game-using-Python/blob/main/Game%20Screenshot.png
 
 ## 🚀 Getting Started
 
